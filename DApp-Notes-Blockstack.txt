@@ -1,0 +1,46 @@
+use radiks and next.js
+
+webassembly - you can write in other languages
+- write code in that langauge them export it to webassembly
+- get safety measures from your language like go or rust then export to webassembly
+
+Blockstack is building their own language - and its not turing complete 
+- Launching smart contract support in the fall 
+- Test network sometime soon in the SVGAnimatedEnumeration
+- SCs with current blockstack 
+- DApps are not necessarily in need of SCs 
+- can build network apps without SCs 
+- what's more important is that user profiles are decentralized and private
+- protect user Data - SCs comes with a high cost and impedes UX
+- DocuSign DApp - can always do that with any 
+
+Blockstack is built ontop of Bitcoin 
+- blockstack ID is made and saved using bitcoin blockchain 
+- build something sikmilar?
+    
+    - saving metadata in a transaction, build SC ontop of it - using 
+    - if you need a dapp to work with a SC on Ethereum you can work with it while
+    - still working on SCs
+    
+    - With bitcoin you only work with metadata as an alternative to SCs
+    - Cosmos allows interchain transactions 
+
+    - Core logic and fundamentals
+
+    - Get into contact with Shannon
+      - host routine meetups with theme 
+      - DAppss aroudn decentralized apps
+      - what are the values to create around decentralized apps 
+
+      DApp interchain communication:
+      -  Lets a DApp talk to SCs on another blockchain, such as Ethereum, 
+	 when the DApp is hosted, or originally built on a different blockchain
+	 - E.g.  DApp built on Bitcoin's blockchain and can interact
+	 - 	 with SCs on Ethereum blockchain, interaction 
+  	 - 	 behaviour would serve to add features/benefits from 
+ 	 - 	 one blockchain that are not natively offered from 
+ 	 - 	 the host, or infrastructure, blockchain. 
+	 - The benefit of these interchain comms would add greater
+  	 - flexibility for DApp developers and minimize risk of 
+	 - having to switch DApp codebase to another blockchain. 
+   	 - 
